@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AlumnoApiApplication {
 
 	public static void main(String[] args) {
+		//clase principal que permite realizar operaciones relacionadas a el control de alumnos en una escuela
 		SpringApplication.run(AlumnoApiApplication.class, args);
 	}
 
