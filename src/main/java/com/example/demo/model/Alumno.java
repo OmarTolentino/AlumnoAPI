@@ -17,7 +17,8 @@ public class Alumno {
 		this.edad = edad;
 		this.carrera = carrera;
 	}
-	
+
+	//Operaciones que se pueden realizar
 	public Integer getId() {
 		return id;
 	}
